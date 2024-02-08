@@ -1,1 +1,3 @@
-# Mishka
+---
+permalink: /index.html
+---
